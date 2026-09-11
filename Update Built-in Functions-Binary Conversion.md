@@ -20,3 +20,7 @@ print(y)
 
 ## Result
 Thus,the Python program to convert the number 16 into its binary representation using built-in Python functions is created successfully.
+
+NAME: HARISHANKAR E
+REG NO: 212223210007
+DATE: 11.9.2026
