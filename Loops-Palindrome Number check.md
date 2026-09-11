@@ -33,3 +33,7 @@ else:
 
 ## Result
 Thus,the Python program that checks whether a given number is a palindrome using loops is created successfully.
+
+NAME: HARISHANKAR E
+REG NO: 212223210007
+DATE: 11.9.2026
